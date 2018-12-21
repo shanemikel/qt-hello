@@ -1,0 +1,8 @@
+qt-hello
+Makefile
+out
+.qmake.stash
+proto
+moc_*.cpp
+moc_predefs.h
+qrc_resources.cpp
